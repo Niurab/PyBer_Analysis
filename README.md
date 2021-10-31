@@ -23,6 +23,8 @@ The average fare per ride is 1.4 times less in urban cities than in rural cities
 
 The weekly multiple line graph shows the total weekly fares for urban, suburban and rural cities. The line plot for urban cities (yellow line) is higher than the line for suburban and rural cities. The trend shows that PyBer has higher total fares and revenue in urban cities compare to suburban and rural cities.
 
+![image](https://user-images.githubusercontent.com/91093413/139570132-9858e993-8dd7-4950-9a33-48f5209e02b9.png)
+
 ## Summary
 
 There is the need to focus on profitability of urban cities rides because urban rides make more revenue but rural cities record more profit.
@@ -33,5 +35,7 @@ Calculating the average fare per minute or kilometre will give an insight and en
 
 
 Jupyter notebook
+
 Pandas
+
 Matplotlib
