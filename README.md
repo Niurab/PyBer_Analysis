@@ -34,6 +34,8 @@ There is also the need to reduce the number of drivers in urban cities. The curr
 Calculating the average fare per minute or kilometre will give an insight and enable comparison of the value among city types. A higher 1 minute ride in rural cities compare to the fare in urban cities might lead to increase in ride fare in urban cities and this might lead to an even higher revenue in these cities.
 
 
+
+------------------------
 Jupyter notebook
 
 Pandas
